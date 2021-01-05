@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "picture-page": {
+      "hosting": {
+        "tictactoe": [
+          "picture-page"
+        ]
+      }
+    }
+  }
+}
